@@ -26,7 +26,7 @@ This project is designed as a backend-focused portfolio project, showcasing real
 - Simple JWT
 - SQLite (development)
 
-
+````
 ## 📂 Project Structure
 
 
