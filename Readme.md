@@ -1,11 +1,10 @@
-```md
+
 # Task Manager REST API
 
 A production-ready Task Management REST API built with **Django Rest Framework**, featuring **JWT authentication**, **secure user-based CRUD operations**, **filtering**, and **pagination**.
 
 This project is designed as a backend-focused portfolio project, showcasing real-world API design and authentication practices.
 
----
 
 ## 🚀 Features
 
@@ -27,7 +26,6 @@ This project is designed as a backend-focused portfolio project, showcasing real
 - Simple JWT
 - SQLite (development)
 
----
 
 ## 📂 Project Structure
 
